@@ -9,6 +9,9 @@ sum = a + b
 
 print(" The sum of ",a,"and",b,"is",sum)
 
+<<<<<<< HEAD
+
+<<<<<<< HEAD
 #OUTPUT
 HELLO,WORLD!
 the sum of 5 and 3 is 8
@@ -19,9 +22,8 @@ num = 10
 float_num = float(num)
 print(float_num)
 
- international
+>>>>>>> international
 =======
 # output
 10.0:
- school
- stonill international school
+>>>>>>> school
