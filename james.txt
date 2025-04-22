@@ -1,7 +1,7 @@
 # Simple python program
-#print a message 
+# print a message 
 print("Hello World!")
-#add two numbers
+# add two numbers
 a = 5
 b = 3
 sum = a + b
@@ -10,6 +10,15 @@ sum = a + b
 print(" The sum of ",a,"and",b,"is",sum)
 
 
+<<<<<<< HEAD
 #OUTPUT
 HELLO,WORLD!
 the sum of 5 and 3 is 8
+=======
+
+# convert an interger to a float
+num = 10
+float_num = float(num)
+print(float_num)
+
+>>>>>>> international
