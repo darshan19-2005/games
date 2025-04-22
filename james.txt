@@ -1,11 +1,18 @@
 # Simple python program
-#print a message 
+# print a message 
 print("Hello World!")
-#add two numbers
+# add two numbers
 a = 5
 b = 3
 sum = a + b
 
 
 print(" The sum of ",a,"and",b,"is",sum)
+
+
+
+# convert an interger to a float
+num = 10
+float_num = float(num)
+print(float_num)
 
